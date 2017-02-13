@@ -1,0 +1,4 @@
+notifications:
+  webhooks:
+    urls:
+      - http://devproxy-public.asialab.glip.net/webhook-tyler.liu/ea7f2d9e-91a1-4ae4-bd9b-1737c39908ec
