@@ -5,7 +5,7 @@ const assert = require('assert')
 describe('math', function () {
   describe('add', function () {
     it('should get 1 + 1 correct', function () {
-      assert.equal(3, 1 + 1)
+      assert.equal(2, 1 + 1)
     })
   })
   describe('add', function () {
