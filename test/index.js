@@ -18,4 +18,9 @@ describe('math', function () {
       assert.equal(4, 2 * 2)
     })
   })
+  describe('divide', function () {
+    it('should get 4 / 2 correct', function () {
+      assert.equal(2, 4 / 2)
+    })
+  })
 })
