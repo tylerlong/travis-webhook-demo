@@ -15,7 +15,7 @@ describe('math', function () {
   })
   describe('multiply', function () {
     it('should get 2 * 2 correct', function () {
-      assert.equal(4, 2 * 2)
+      assert.equal(4, 1 * 2)
     })
   })
   describe('divide', function () {
