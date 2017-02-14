@@ -8,4 +8,9 @@ describe('math', function () {
       assert.equal(2, 1 + 1)
     })
   })
+  describe('add', function () {
+    it('should get 2 - 1 correct', function () {
+      assert.equal(1, 2 - 1)
+    })
+  })
 })
