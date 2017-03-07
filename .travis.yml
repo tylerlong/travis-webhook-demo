@@ -1,3 +1,10 @@
 language: node_js
 node_js:
   - "7.5"
+notifications:
+  webhooks:
+    urls:
+      - http://devproxy-public.asialab.glip.net/webhook-tyler.liu/fe643fad-0cc7-4f3f-9332-d2def8223ced
+    on_success: always # default: always
+    on_failure: always # default: always
+    on_start: always   # default: never
