@@ -1,3 +1,4 @@
 notify:
    webhooks:
      - url: http://devproxy-public.asialab.glip.net/webhook-tyler.liu/f088b656-ce1c-4ecb-a2ab-65c850751fc9
+     - url: http://requestb.in/19z8ft51
