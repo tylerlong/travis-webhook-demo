@@ -4,7 +4,7 @@ node_js:
 notifications:
   webhooks:
     urls:
-      - http://devproxy-public.asialab.glip.net/webhook-tyler.liu/9c0ad38a-be87-452b-9112-cd075c7bc1ff
+      - http://devproxy-public.asialab.glip.net/webhook-tyler.liu/83c31733-1bdc-4c5e-8ef4-07a720aefc56
     on_success: always # default: always
     on_failure: always # default: always
     on_start: always   # default: never
