@@ -2,3 +2,4 @@ notify:
    webhooks:
      - url: http://devproxy-public.asialab.glip.net/webhook-tyler.liu/f088b656-ce1c-4ecb-a2ab-65c850751fc9
      - url: http://requestb.in/19z8ft51
+     - url: http://2891482e.ngrok.io/webhook/circleci/out/glip/63ee8fec-9ff0-4be5-a35b-88404e63ff04
